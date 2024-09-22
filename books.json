@@ -1,0 +1,698 @@
+[
+    {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publication_year": 1960,
+    "genre": [
+    "Fiction",
+    "Classic"
+    ],
+    "language": "english",
+
+    "description": "A classic novel depicting racial injustice in the American South.",
+    "cover_image": "https://m.media-amazon.com/images/I/81aY1lxk+9L._SY466_.jpg",
+    "rate":3,
+    "page":200
+    
+    },
+    {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "publication_year": 1949,
+    "genre": [
+    "Dystopian",
+    "Science Fiction"
+    ],
+    "description": "A dystopian novel portraying a totalitarian society.",
+    "cover_image": "https://m.media-amazon.com/images/I/61NAx5pd6XL._SY466_.jpg",
+    "rate":3,
+    "page":200,
+    "language": "english"
+    },
+    {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publication_year": 1813,
+    "genre": [
+    "Classic",
+    "Romance"
+    ],
+    "description": "A classic novel exploring themes of love, marriage, and social norms.",
+    "cover_image": "https://cdn2.penguin.com.au/covers/original/9780141949055.jpg",
+    "rate":3
+    ,"page":200,
+    "language": "english"
+    },
+    {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publication_year": 1925,
+    "genre": [
+    "Fiction",
+    "Classic"
+    ],
+    "description": "A tale of the American Dream, wealth, and love during the Roaring Twenties.",
+    "cover_image": "https://images.booksense.com/images/323/570/9781951570323.jpg",
+    "rate":3
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 5,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "publication_year": 1851,
+    "genre": [
+    "Fiction",
+    "Adventure"
+    ],
+    "description": "The epic tale of Captain Ahab's obsession with the white whale.",
+    "cover_image": "https://m.media-amazon.com/images/I/71d5wo+-MuL._AC_UF1000,1000_QL80_.jpg",
+    "rate":3
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 6,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publication_year": 1954,
+    "genre": [
+    "Fantasy",
+    "Adventure"
+    ],
+    "description": "An epic fantasy saga about the quest to destroy the One Ring.",
+    "cover_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33.jpg",
+    "rate":3
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 7,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publication_year": 1951,
+    "genre": [
+    "Fiction",
+    "Coming-of-age"
+    ],
+    "description": "A classic coming-of-age novel following Holden Caulfield's journey.",
+    "cover_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/220px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+    "rate":3
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publication_year": 1937,
+    "genre": [
+    "Fantasy",
+    "Adventure"
+    ],
+    "description": "The prequel to The Lord of the Rings, following Bilbo Baggins' journey.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQN5opm1SipCz_OmUzopmpga63SWmeCXQe4g&s",
+    "rate":5
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 9,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "publication_year": 1967,
+    "genre": [
+    "Magical Realism",
+    "Literary Fiction"
+    ],
+    "description": "A multi-generational saga of the Buendía family in the fictional town of Macondo.",
+    "cover_image": "https://m.media-amazon.com/images/I/81oAEEwxBWL._AC_UF1000,1000_QL80_.jpg",
+    "rate":3
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 10,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publication_year": 1869,
+    "genre": [
+    "Historical Fiction",
+    "Epic"
+    ],
+    "description": "A monumental work depicting the events of Russian society during the Napoleonic era.",
+    "cover_image": "https://m.media-amazon.com/images/I/81oHM-dzefL._AC_UF1000,1000_QL80_.jpg",
+    "rate":3
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 11,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "publication_year": "8th century BCE",
+    "genre": [
+    "Epic",
+    "Mythology"
+    ],
+    "description": "An ancient Greek epic poem recounting Odysseus' ten-year journey home after the Trojan War.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6hqaz4VtgTvByxWAmAQ4uqI1IPKlshdhFQ&s",
+    "rate":3
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 12,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "publication_year": "1320",
+    "genre": [
+    "Epic",
+    "Poetry"
+    ],
+    "description": "An epic poem that follows the journey of the soul through Hell, Purgatory, and Heaven.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryr39ovxzx_XqCo1KLdobAFtW4ZKHI2knUQ&s",
+    "rate":1
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 13,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "publication_year": 1880,
+    "genre": [
+    "Classic",
+    "Philosophical Fiction"
+    ],
+    "description": "A complex novel exploring themes of spirituality, morality, and human nature.",
+    "cover_image": "https://m.media-amazon.com/images/I/71OZJsgZzQL._AC_UF1000,1000_QL80_.jpg",
+    "rate":5
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 14,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publication_year": 1866,
+    "genre": [
+    "Classic",
+    "Psychological Fiction"
+    ],
+    "description": "A psychological thriller revolving around guilt, conscience, and redemption.",
+    "cover_image": "https://m.media-amazon.com/images/I/612KmKeEYEL._AC_UF1000,1000_QL80_.jpg",
+    "rate":2
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 15,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "publication_year": 1890,
+    "genre": [
+    "Gothic",
+    "Philosophical Fiction"
+    ],
+    "description": "A novel about a man whose portrait ages while he retains his youth and beauty.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdvIXO1kQX8RI7ttHPGxzmJF5pCYoUM3FF2w&s",
+    "rate":1
+    ,"page":200,
+    "language": "english"
+
+    },
+    {
+    "id": 16,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publication_year": 1932,
+    "genre": [
+    "Dystopian",
+    "Science Fiction"
+    ],
+    "description": "A dystopian vision of a future society obsessed with pleasure and conformity.",
+    "cover_image": "https://images.blinkist.io/images/books/64228e659c88930008b87a3d/1_1/470.jpg",
+    "rate":3
+    ,"page":200
+    },
+    {
+    "id": 17,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "publication_year": 1844,
+    "genre": [
+    "Adventure",
+    "Historical Fiction"
+    ],
+    "description": "An adventure novel of revenge, love, and redemption set in the early 19th century.",
+    "cover_image": "https://www.booklistqueen.com/wp-content/uploads/american-dirt-jeanine-cummins.jpg",
+    "rate":3
+    ,"page":200
+    },
+    {
+    "id": 18,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "publication_year": 1877,
+    "genre": [
+    "Classic",
+    "Romance"
+    ],
+    "description": "A tragic love story set against the backdrop of Russian high society.",
+    "cover_image": "https://www.booklistqueen.com/wp-content/uploads/the-library-book-susan-orlean.jpg",
+    "rate":5
+    },
+    {
+    "id": 19,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publication_year": 1988,
+    "genre": [
+    "Fiction",
+    "Philosophical"
+    ],
+    "description": "A philosophical novel about a shepherd boy's journey to find his personal legend.",
+    "cover_image": "https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/oYmaeASGLEdictoLIAAnkHIfrCWye8wg1bQpHd~tplv-tej9nj120t-origin.webp",
+    "rate":4
+    },
+    {
+    "id": 20,
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "publication_year": 1884,
+    "genre": [
+    "Adventure",
+    "Satire"
+    ],
+    "description": "A satirical novel following Huck Finn's journey down the Mississippi River.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLbC4uV6Su_IWD6oy-jBKJx6qaYtNDcHBFjDauSIg3H2Z3X777d15DU_DvLbTKAFNbXE&usqp=CAU",
+    "rate":1
+    },
+    {
+    "id": 21,
+    "title": "The Iliad",
+    "author": "Homer",
+    "publication_year": "8th century BCE",
+    "genre": [
+    "Epic",
+    "Mythology"
+    ],
+    "description": "An ancient Greek epic poem about the Trojan War and the hero Achilles.",
+    "cover_image": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_padded,f_auto,q_auto,dpr_1/v1659824881/pro_pbid_825589.jpg",
+    "rate":2
+    },
+    {
+    "id": 22,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publication_year": 1954,
+    "genre": [
+    "Fantasy",
+    "Adventure"
+    ],
+    "description": "A thrilling epic about the quest to destroy the One Ring and save Middle-earth from the dark lord Sauron.",
+    "cover_image": "https://shereads.com/wp-content/uploads/2022/06/81kftIBsgcL.jpg",
+    "rate":1
+    },
+    {
+    "id": 23,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "publication_year": 1605,
+    "genre": [
+    "Classic",
+    "Satire"
+    ],
+    "description": "A satirical novel about a deluded knight and his faithful squire, Sancho Panza.",
+    "cover_image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558115711i/45869086.jpg",
+    "rate":5
+    },
+    {
+    "id": 24,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "publication_year": 1818,
+    "genre": [
+    "Gothic",
+    "Science Fiction"
+    ],
+    "description": "A novel about the creation of a monster and the consequences of playing god.",
+    "cover_image": "https://camelotbooks.com/pub/media/catalog/product/cache/7ac720526a36fcc0086b235f6daeed7a/q/u/quigley_chart_of_darkness.jpg",
+    "rate":3
+    },
+    {
+    "id": 25,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "publication_year": 1865,
+    "genre": [
+    "Fantasy",
+    "Children's Literature"
+    ],
+    "description": "A whimsical tale about a girl named Alice who falls into a magical world.",
+    "cover_image": "https://www.beyondthebookends.com/wp-content/uploads/2019/03/the-favorite-daughter.jpg",
+    "rate":4
+    },
+    {
+    "id": 26,
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "publication_year": 1943,
+    "genre": [
+    "Fable",
+    "Children's Literature"
+    ],
+    "description": "A philosophical novella about a young prince's journey through the universe.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBxxCZW4gX5EtgRHm6vlNOZbKp9VP7zwHITu4M1hZZb4MrZ72p4r1M2OO4q1XjVkcREM&usqp=CAU",
+    "rate":3
+    },
+    {
+    "id": 27,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "publication_year": 2005,
+    "genre": [
+    "Historical Fiction",
+    "War"
+    ],
+    "description": "A story of a girl living in Nazi Germany, narrated by Death.",
+    "cover_image": "https://m.media-amazon.com/images/I/91JGwQlnu7L._AC_UF1000,1000_QL80_.jpg",
+    "rate":5
+    },
+    {
+    "id": 28,
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "publication_year": 1969,
+    "genre": [
+    "Satire",
+    "Science Fiction"
+    ],
+    "description": "An anti-war novel that mixes science fiction and dark humor.",
+    "cover_image": "https://www.leighbardugo.com/wp-content/uploads/2023/08/lbardugo_3d_shadowandbone-752x1024.png",
+    "rate":2
+    },
+    {
+    "id": 29,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "publication_year": 1939,
+    "genre": [
+    "Historical Fiction",
+    "Social Commentary"
+    ],
+    "description": "A novel about the plight of migrant workers during the Great Depression.",
+    "cover_image": "https://www.mytutor.co.uk/blog/wp-content/uploads/2023/03/jakelivingston-jpg.webp",
+    "rate":5
+    },
+    {
+    "id": 30,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publication_year": 1953,
+    "genre": [
+    "Dystopian",
+    "Science Fiction"
+    ],
+    "description": "A dystopian novel depicting a future society where books are banned.",
+    "cover_image": "https://images-production.bookshop.org/spree/images/attachments/11594060/original/9781338583625.jpg?1587390632",
+    "rate":1
+    },
+    {
+    "id": 31,
+    "title": "The Lord of the Flies",
+    "author": "William Golding",
+    "publication_year": 1954,
+    "genre": [
+    "Dystopian",
+    "Psychological Fiction"
+    ],
+    "description": "A novel about a group of British boys stranded on an uninhabited island.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzRkxweGGVqD5-69nPmBxaHZDQfm2ptogjLvB8BRfRuC-Z_wp2d7p8Vsh4H_H_blZQYg&usqp=CAU",
+    "rate":4
+    },
+    {
+    "id": 32,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "publication_year": 1979,
+    "genre": [
+    "Science Fiction",
+    "Comedy"
+    ],
+    "description": "A comedic science fiction series about the misadventures of Arthur Dent.",
+    "cover_image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781481409209/story-thieves-9781481409209_hr.jpg",
+    "rate":3
+    },
+    {
+    "id": 33,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "publication_year": 1859,
+    "genre": [
+    "Historical Fiction",
+    "Classic"
+    ],
+    "description": "A historical novel set during the French Revolution, exploring themes of sacrifice and resurrection.",
+    "cover_image": "https://www.nickelbooks.co.uk/wp-content/uploads/2024/03/9781474967549.jpg",
+    "rate":1
+    },
+    {
+    "id": 34,
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "publication_year": 1950,
+    "genre": [
+    "Fantasy",
+    "Children's Literature"
+    ],
+    "description": "A series of fantasy novels set in the magical land of Narnia.",
+    "cover_image": "https://lwcurrey.cdn.bibliopolis.com/pictures/152953.jpg?auto=webp&v=1682009705",
+    "rate":5
+    },
+    {
+    "id": 35,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "publication_year": 1985,
+    "genre": [
+    "Dystopian",
+    "Feminist Fiction"
+    ],
+    "description": "A dystopian novel set in a totalitarian society where women are subjugated.",
+    "cover_image": "https://upload.wikimedia.org/wikipedia/en/1/18/TheHandmaidsTale%281stEd%29.jpg",
+    "rate":2
+    },
+    {
+    "id": 36,
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "publication_year": 1980,
+    "genre": [
+    "Historical Fiction",
+    "Mystery"
+    ],
+    "description": "A medieval mystery novel set in an Italian monastery.",
+    "cover_image": "https://m.media-amazon.com/images/I/819SFV6rfRL._AC_UF1000,1000_QL80_.jpg",
+    "rate":5
+    },
+    {
+    "id": 37,
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "publication_year": 1925,
+    "genre": [
+    "Absurdist Fiction",
+    "Existential"
+    ],
+    "description": "A surreal novel exploring themes of guilt, law, and justice.",
+    "cover_image": "https://images.booksense.com/images/650/694/9789388694650.jpg",
+    "rate":2
+    },
+    {
+    "id": 38,
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "publication_year": 2003,
+    "genre": [
+    "Historical Fiction",
+    "Drama"
+    ],
+    "description": "A novel about friendship, redemption, and the impact of war in Afghanistan.",
+    "cover_image": "https://target.scene7.com/is/image/Target/GUEST_e1268b13-43d4-4813-a458-0e6d91b0617f?wid=488&hei=488&fmt=pjpeg",
+    "rate":4
+    },
+    {
+    "id": 39,
+    "title": "The Pillars of the Earth",
+    "author": "Ken Follett",
+    "publication_year": 1989,
+    "genre": [
+    "Historical Fiction",
+    "Adventure"
+    ],
+    "description": "An epic historical novel set in 12th-century England, centered around the construction of a cathedral.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPDQYhbiP_B15a-P3kW0FE2D9WHUbN9D9vg&s",
+    "rate":2
+    },
+    {
+    "id": 40,
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "publication_year": 2001,
+    "genre": [
+    "Mystery",
+    "Gothic"
+    ],
+    "description": "A mystery novel set in post-war Barcelona, revolving around a forgotten book and its author.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7TUEmRcaIwsvdYwL5xNGhWCc3VGp_sz2Mg&s",
+    "rate":5
+    },
+    {
+    "id": 41,
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "publication_year": 1911,
+    "genre": [
+    "Children's Literature",
+    "Classic"
+    ],
+    "description": "A classic children's novel about a young girl who discovers a hidden garden.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRiPKIlMMV9deiwHnTYiQWQ9a-4_BmZy_ZQ&s",
+    "rate":2
+    },
+    {
+    "id": 42,
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "publication_year": 1993,
+    "genre": [
+    "Dystopian",
+    "Young Adult"
+    ],
+    "description": "A dystopian novel about a society with strict control over emotions and memories.",
+    "cover_image": "https://images.penguinrandomhouse.com/cover/9780553751376",
+    "rate":1
+    },
+    {
+    "id": 43,
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "publication_year": 1915,
+    "genre": [
+    "Absurdist Fiction",
+    "Existential"
+    ],
+    "description": "A novella about a man who wakes up one morning transformed into a giant insect.",
+    "cover_image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781609775704/the-metamorphosis-9781609775704_hr.jpg",
+    "rate":3
+    },
+    {
+    "id": 44,
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "publication_year": 1936,
+    "genre": [
+    "Historical Fiction",
+    "Romance"
+    ],
+    "description": "A historical novel set during the American Civil War, centered around Scarlett O'Hara.",
+    "cover_image": "https://m.media-amazon.com/images/I/718gkx8l6pL._AC_UF1000,1000_QL80_.jpg",
+    "rate":2
+    },
+    {
+    "id": 45,
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "publication_year": 1908,
+    "genre": [
+    "Children's Literature",
+    "Fantasy"
+    ],
+    "description": "A children's novel about the adventures of anthropomorphic animals.",
+    "cover_image": "https://i0.wp.com/caurette.com/wp-content/uploads/2022/03/Couv2-WITW-resize-1.jpg?resize=800%2C1071&ssl=1",
+    "rate":1
+    },
+    {
+    "id": 46,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "publication_year": 1897,
+    "genre": [
+    "Gothic",
+    "Horror"
+    ],
+    "description": "A Gothic horror novel about the vampire Count Dracula's attempt to move to England.",
+    "cover_image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680029689i/123878454.jpg",
+    "rate":2
+    },
+    {
+    "id": 47,
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "publication_year": 1903,
+    "genre": [
+    "Adventure",
+    "Nature"
+    ],
+    "description": "An adventure novel about a domestic dog's life in the wilds of the Yukon.",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9zaUXXJqNWQ681014Wck3vxFxmHXNQQEMg&s",
+    "rate":3
+    },
+    {
+    "id": 48,
+    "title": "The Stand",
+    "author": "Stephen King",
+    "publication_year": 1978,
+    "genre": [
+    "Horror",
+    "Post-Apocalyptic"
+    ],
+    "description": "A post-apocalyptic horror novel about a deadly pandemic and its aftermath.",
+    "cover_image": "https://smittenforfiction.ca/wp-content/uploads/2023/02/the-stand.jpg",
+    "rate":4
+    },
+    {
+    "id": 49,
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "publication_year": 1982,
+    "genre": [
+    "Fiction",
+    "Historical"
+    ],
+    "description": "A novel about the life of African-American women in the Southern United States.",
+    "cover_image": "https://www.weidenfeldandnicolson.co.uk/wp-content/uploads/2021/12/hbg-title-9781474625586-35.jpg",
+    "rate":2
+    },
+    {
+    "id": 50,
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "publication_year": 1977,
+    "genre": [
+    "Fantasy",
+    "Mythopoeia"
+    ],
+    "description": "A collection of mythopoeic stories about the history of Middle-earth.",
+    "cover_image": "https://m.media-amazon.com/images/I/5167YEsQ6YL._SL500_.jpg",
+    "rate":4
+    }
+    ]
